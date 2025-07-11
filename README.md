@@ -1,4 +1,4 @@
-# # Tejaswani Singh's Portfolio 🌐
+#  Tejaswani Singh's Portfolio 🌐
 
 Welcome to my personal portfolio website!  
 This site showcases my educational background, technical skills, projects, and certifications.
